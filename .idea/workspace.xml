@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c6a4e292-0316-477a-b301-9bbd55d94d82" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/psb.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/spine.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/timeline.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Qzone.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GetLunarDay.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fx.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-    </list>
+    <list default="true" id="c6a4e292-0316-477a-b301-9bbd55d94d82" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -271,8 +257,7 @@
     <option name="totallyTimeSpent" value="14168000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="235" y="50" width="934" height="418" extended-state="1" />
-    <editor active="true" />
+    <frame x="235" y="50" width="934" height="418" extended-state="0" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17772692" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
